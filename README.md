@@ -51,7 +51,7 @@ After uploading the project to GitHub:
 2. Open **Pages**.
 3. Under **Source**, select:
 
-   * Branch: `main`
+   * Branch: `master`
    * Folder: `/ (root)`
 4. Click **Save**.
 
