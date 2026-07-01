@@ -58,13 +58,13 @@ After uploading the project to GitHub:
 Your website URL will be:
 
 ```
-https://abbas1216a.github.io/school-MS/
+https://abbas1216a.github.io/MIS/
 ```
 
 Example:
 
 ```
-https://abbas1216a.github.io/school-MS/
+https://abbas1216a.github.io/MIS/
 ```
 
 ## Author
